@@ -1,0 +1,36 @@
+{
+	"CHARACTER": {
+		"Name": "CHARNAME",
+		"Species": "SPECIESTYPE",
+		"MORPHTYPE": "VECTOR/BLIP/COG/COGSUNE",
+		"Morph": "MORPHTYPE",
+		"XPSPENT":0,
+		"CPOINTS":0,
+		"CREDITS":0,
+		"Progression": {},
+		"SSCORES": {
+			"BMass": null,
+			"TMass": null,
+			"Wounds": null,
+			"Evade": null,
+			"Endure": null
+		},
+		"Background": [
+			"BACKGROUNDTYPE",
+			"POSITIVENEGATIVE"
+		],
+		"Education": [
+			"EDUCATION",
+			"SKILLS",
+			"BOONS",
+			"BANES"
+		],
+		"Quirks": [
+			"QUIRK1",
+			"QUIRK2",
+			"QUIRK3"
+		],
+		"RECSPEC": null,
+		"EQUIPLIST": []
+	}
+}
