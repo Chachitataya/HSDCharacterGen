@@ -1,0 +1,2 @@
+// Model portion. Contains data and data-related controls.
+//This should include files writing/loading/changing/reading JSON, as well as JSON itself
